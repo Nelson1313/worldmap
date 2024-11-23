@@ -25,10 +25,9 @@ const defaultSelectedCountries = new Set([
   "Denmark", "Finland", "France", "Germany", "Greece", "Hungary", "Ireland", 
   "Israel", "Italy", "Latvia", "Malta", "Netherlands", "Norway", "Poland", 
   "Portugal", "Romania", "Slovakia", "Slovenia", "Spain", "Sweden", 
-  "Switzerland", "Turkey", "United Kingdom",
-  "Australia", "Bangladesh", "Cambodia", "China", "Hong Kong", "India", 
-  "Indonesia", "Korea", "Malaysia", "Myanmar", "New Zealand", "Philippines", 
-  "Singapore", "Sri Lanka", "Taiwan", "Thailand", "Vietnam"
+  "Switzerland", "Turkey", "England",
+  "Australia", "Bangladesh", "Cambodia", "China", "India", 
+  "Indonesia", "South Korea", "Malaysia", "Myanmar", "New Zealand", "Phpyilippines", "Sri Lanka", "Taiwan", "Thailand", "Vietnam"
 ]);
 
 // GeoJSON betöltése
